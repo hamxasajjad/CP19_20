@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[78]:
-
 
 from tkinter import *
 from tkinter import messagebox
