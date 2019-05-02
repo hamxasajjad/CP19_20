@@ -1,0 +1,6 @@
+Final Libraries That will be used in project:
+
+1. OpenCV Library
+2. Numpy Library
+3. Dlib Library
+4. Tkinter Library

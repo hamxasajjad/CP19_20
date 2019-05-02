@@ -1,0 +1,11 @@
+Waqas: 
+ Start working on GUI and learn about the widgets that will be using in project GUI on tkinter.
+
+Fouzan:
+ I have sent you the code, Have a deep look and check How it's working
+
+Haris: 
+ Start working on GUI with waqas.
+
+Zeeshan:
+ Aby bhaiii...kum se kum github to join kr lee....
